@@ -63,13 +63,6 @@ namespace AppConsole
         #region Replaced by new model methods
         private static void WriteModel(List<csFriend> _modelList)
         {
-            /*
-            foreach (var friend in _modelList)
-            {
-                Console.WriteLine(friend);
-            }
-            */
-
             Console.WriteLine($"NrOfFriends: {_modelList.Count()}");
             Console.WriteLine($"NrOfFriends without any pets: {_modelList.Count(
                 f => f.Pets == null || f.Pets?.Count == 0)}");
