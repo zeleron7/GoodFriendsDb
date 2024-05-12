@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "k+YNGfKGOAKVVjVh7Eo8TFORDkzeHvZCb0qthYC0vA2lwC43TYp3sJyHhpzKFaUq3g5kaIxGVI27Bm0XSF4xnQ==",
+  "success": true,
+  "projectFilePath": "/Users/Martin/Development/Projects/SQL Databases Apr 2024/SQLDB_dotNET/GoodFriendsDb/Configuration/Configuration.csproj",
+  "expectedPackageFiles": [
+    "/Users/Martin/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "/Users/Martin/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/Martin/.nuget/packages/microsoft.extensions.configuration.binder/8.0.1/microsoft.extensions.configuration.binder.8.0.1.nupkg.sha512",
+    "/Users/Martin/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.0/microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
+    "/Users/Martin/.nuget/packages/microsoft.extensions.configuration.json/8.0.0/microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
+    "/Users/Martin/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/Users/Martin/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "/Users/Martin/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "/Users/Martin/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/Martin/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/Martin/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
